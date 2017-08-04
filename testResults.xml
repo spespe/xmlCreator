@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite name="Tests GMR scripts" time="0 hours 51 minutes 39 seconds " tests="17" errors="2" skipped="3"
+           failures="3">
+    <testcase name="test1" time="0 hours 0 minutes 30 seconds" classname="Tests GMR scripts"></testcase>
+    <testcase name="test1" time="0 hours 0 minutes 30 seconds" classname="Tests GMR scripts"></testcase>
+    <testcase name="test1" time="0 hours 0 minutes 30 seconds" classname="Tests GMR scripts"></testcase>
+    <testcase name="test1" time="0 hours 0 minutes 30 seconds" classname="Tests GMR scripts"></testcase>
+    <testcase name="test2" time="0 hours 3 minutes 2 seconds" classname="Tests GMR scripts"></testcase>
+    <testcase name="test2" time="0 hours 3 minutes 2 seconds" classname="Tests GMR scripts"></testcase>
+    <testcase name="test2" time="0 hours 3 minutes 2 seconds" classname="Tests GMR scripts"></testcase>
+    <testcase name="test2" time="0 hours 3 minutes 2 seconds" classname="Tests GMR scripts"></testcase>
+    <testcase name="test2" time="0 hours 3 minutes 2 seconds" classname="Tests GMR scripts"></testcase>
+    <testcase name="test3" time="0 hours 1 minutes 43 seconds" classname="Tests GMR scripts"></testcase>
+    <testcase name="test3" time="0 hours 1 minutes 43 seconds" classname="Tests GMR scripts"></testcase>
+    <testcase name="test4" time="0 hours 10 minutes 21 seconds" classname="Tests GMR scripts"></testcase>
+    <testcase name="test4" time="0 hours 10 minutes 21 seconds" classname="Tests GMR scripts"></testcase>
+    <testcase name="test4" time="0 hours 10 minutes 21 seconds" classname="Tests GMR scripts"></testcase>
+    <testcase name="test5" time="" classname="Tests GMR scripts"></testcase>
+    <testcase name="test5" time="" classname="Tests GMR scripts"></testcase>
+    <testcase name="test5" time="" classname="Tests GMR scripts"></testcase>
+</testsuite>
