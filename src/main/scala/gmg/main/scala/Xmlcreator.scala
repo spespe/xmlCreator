@@ -79,6 +79,7 @@ object Xmlcreator extends App {
   }
 
   //Saving on an xml file
+ //Replacing in the future the save part
   scala.xml.XML.save(args(1), resultToXml(data), "UTF-8", true, null)
 }
 
